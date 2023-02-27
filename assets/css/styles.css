@@ -328,11 +328,14 @@ img {
 }
 
 .skills__js {
-  width: 65%;
+  width: 82%;
 }
 
 .skills__bootstrap {
   width: 75%;
+}
+.skills__wordpress {
+  width: 79%;
 }
 
 .skills__img {
@@ -359,6 +362,10 @@ img {
 .work__img img:hover{
   opacity: 0.6;
   transform: scale(1.1);
+}
+lord-icon{
+  display: flex;
+  justify-content: center;
 }
 label.title{
   padding: 12px 20px;
