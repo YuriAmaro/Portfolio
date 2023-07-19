@@ -534,3 +534,10 @@ a label.title {
   }
   
 }
+.skills__name{
+  cursor: pointer;
+  font-size: larger;
+}
+.skills__name:hover{
+  color: rgb(224, 173, 34);
+}
